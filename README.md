@@ -1,4 +1,4 @@
-# 👨🏾‍💻 Natan Brito
+#🏾‍💻 Natan Brito
 
 <!-- SOCIAL -->
 <div>
@@ -10,7 +10,7 @@
 
 ## Olá  bem-vindos ao meu perfil!
 
-Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia. 
+Meu nome é Natan, sou desenvolvedor de sistemas e apaixonado por tecnologia. 
 
 - <h4>:office_worker: Atualmente estou estudando na Driven, curso de Full-Stack</h4>
 - <h4>:blue_heart: Techs Principais: Desenvolvimento HTML, CSS e JavaScript</h4>
@@ -32,13 +32,10 @@ Meu nome é Abner, sou desenvolvedor de sistemas e apaixonado por tecnologia.
   <img align="center" alt="Natan-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
  
   <img align="center" alt="Natan-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
-  <img align="center" alt="Natan-Visualstudio" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg">
   <img align="center" alt="Natan-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
 </div>
 <div/>
     
 ---
-    
-![Snake animation](https://github.com/NatanBrito/NatanBrito/blob/output/github-contribution-grid-snake.svg)
   
 
