@@ -1,4 +1,4 @@
-#🏾‍💻 Natan Brito
+#�💻 Natan Brito
 
 <!-- SOCIAL -->
 <div>
