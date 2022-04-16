@@ -10,7 +10,7 @@
 
 ## Olá  bem-vindos ao meu perfil!
 
-Meu nome é Natan, sou estudante de software engineer e apaixonado por tecnologia. 
+Meu nome é Natan, sou estudante de Desenvolvimento Web e apaixonado por tecnologia. 
 
 - <h4>:office_worker: Atualmente estou estudando na Driven, curso de Full-Stack</h4>
 - <h4>:blue_heart: Techs Principais: Desenvolvimento HTML, CSS,JavaScript,React.js</h4>
