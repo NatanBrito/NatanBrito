@@ -31,7 +31,7 @@ Meu nome é Natan, sou estudante de software engineer e apaixonado por tecnologi
  <div style="display: inline_block"><br>
    
   <img align="center" alt="Natan-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg">
-   <img align="center" alt="Natan-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/Html/Html-original.svg">
+   <img align="center" alt="Natan-html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html/html-original.svg">
 
   <img align="center" alt="Natan-Vscode" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg">
   <img align="center" alt="Natan-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
