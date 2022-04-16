@@ -39,5 +39,5 @@ Meu nome é Natan, sou estudante de software engineer e apaixonado por tecnologi
 <div/>
     
 ---
-  ![Snake animation](https://github.com/natanbrito/natanbrito/blob/output/github-contribution-grid-snake.svg)
+  !(https://github.com/natanbrito/natanbrito/blob/output/github-contribution-grid-snake.svg)
     
