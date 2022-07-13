@@ -13,8 +13,8 @@
 Meu nome é Natan, sou estudante de Desenvolvimento Web e apaixonado por tecnologia. 
 
 - <h4>:office_worker: Atualmente estou estudando na Driven, curso de Full-Stack</h4>
-- <h4>:blue_heart: Techs Principais: Desenvolvimento HTML, CSS,JavaScript,React.js,Node.js,mongoDB,SQL</h4>
-- <h4> 🌱 No momento estudando banco de dados relacionais</h4>
+- <h4>:blue_heart: Techs Principais: Desenvolvimento JavaScript,React.js,Node.js,mongoDB,SQL,Typescript</h4>
+- <h4> 🌱 No momento estudando Typescripts e testes</h4>
 
 ---
 
