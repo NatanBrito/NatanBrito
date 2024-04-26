@@ -11,7 +11,6 @@
 
 Meu nome é Natan, sou estudante de Desenvolvimento Web e apaixonado por tecnologia. 
 
-- <h4>:office_worker: Atualmente estou Trabalhando de Desenvolvedor Back-end Pleno na Iesde (Sistema de educação)</h4>
 - <h4>:blue_heart: Techs Principais:  JavaScript,Typescript,React.js,Node.js, AWS, mongoDB,SQL</h4>
 - <h4> 🌱 No momento estudando POO</h4>
 
